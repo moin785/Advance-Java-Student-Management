@@ -15,7 +15,7 @@
 2. Run: java Main
 
 ## Author:
-- Moin (Your Name)
+- Moin Siddiqui
 
 ## Description:
 This is a simple Java console-based project to manage student records using ArrayList.
